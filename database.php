@@ -1,8 +1,8 @@
 <?php
 // Database connection parameters
 $host = 'localhost';
-$username = 'root'; // Replace with your MySQL username
-$password = ''; // Replace with your MySQL password
+$username = 'root'; 
+$password = ''; 
 $database = 'studyplanner';
 
 // Create a new database connection

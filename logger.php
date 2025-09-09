@@ -1,10 +1,8 @@
 <?php
 
 /**
- * Logs user activity to a file.
- *
- * @param string $student_name The name of the student.
- * @param string $action The action performed (e.g., 'Logged in', 'Logged out').
+ * @param string
+ * @param string 
  */
 function log_activity($student_name, $action)
 {
